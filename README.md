@@ -1,2 +1,2 @@
-# rshad-track
+# ncc
 Personal studies tracker &amp; analyser 
